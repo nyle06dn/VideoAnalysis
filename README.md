@@ -2,6 +2,9 @@
 
 A comprehensive data cleaning and exploratory analysis workflow for YouTube trending video data.
 
+<img width="1185" height="415" alt="image" src="https://github.com/user-attachments/assets/efe7393f-cfed-4d2a-9f7d-ce33afba75f1" />
+
+
 ## Overview
 
 This project analyzes trending YouTube video datasets from the **United States (US)** and **Great Britain (GB)**, covering data loading, cleaning, feature engineering, exploratory analysis, and country-specific insights.
