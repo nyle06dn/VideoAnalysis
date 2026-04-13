@@ -1,6 +1,8 @@
 # YouTube Video Data Analysis
 
 A comprehensive data cleaning and exploratory analysis workflow for YouTube trending video data.
+<img width="1207" height="410" alt="image" src="https://github.com/user-attachments/assets/55dcccdb-b2be-4de9-8726-e782de22fbc0" />
+
 
 <img width="1185" height="415" alt="image" src="https://github.com/user-attachments/assets/efe7393f-cfed-4d2a-9f7d-ce33afba75f1" />
 
